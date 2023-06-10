@@ -35,7 +35,7 @@ Similar to spin, threads are spawned at the beginning but instead of spinning wh
 ## Test results
 By running the command `./pa2-main -t 4`, we are able to view the results of the parallelization. There are a number of tests that were run and we can see how the different strategies compared with each one.
 
-Parallelization results:
+Parallelization results: <br>
 ![Parallel results](./images/results.png)
 
 See the details in the parallel folder for details about the code.
