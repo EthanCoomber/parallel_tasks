@@ -10,6 +10,14 @@ Change directories to the parallel folder and if it is your first time opening, 
 cmake3 .
 ```
 
+After executing this command once, you simply need to type the command 
+
+```
+make
+```
+
+to compile after further changes.
+
 ## Explanation of approach
 ### TaskRunnerSerial
 This approach simply executes each task sequentially with no parallelization
